@@ -1,11 +1,12 @@
 Hey there, I'm Shamir 👋
 
-I am a mid-level full-stack engineer with a strong focus on web development. Currently, I am working as a freelance engineer, applying my expertise expanding my learnings. In my prior role, I worked as a full stack software engineer at Amazon, contributing to impactful projects.
+I am a backend engineer with expertise in Java and Spring. On freetime, i do some kind of frontend in nextjs and tailwindcss. Further i'm excited about knowing people and talking to them and i do share my thoughts in my personal website. I usually spend my Saturday evening just to catch up with people. If you are interested and you wanna catch up for virtual or real coffee. Feel free to reach out for Saturday evening slot.
 
-To know more and to get in touch with me, please checkout my [personal website](https://pouncing-tempo-041.notion.site/Shamir-s-Website-c5fb4c64e6394024a8d666e9d8c5987d).
+Personal Blog : [mshamir.com/blog](https://mshamir.com/blog)
+Tech Blog: [work.mshamir.com/blog](https://work.mshamir.com/blog)
 
 ## Tech Expertise
-NextJS, React, TailwindCSS, TypeScript, Prisma, PostGres, AWS, Vercel, Spring, Java, Python
+Java, Spring, NextJS, MongoDB, AWSCloud
 
 ## Stats
 
